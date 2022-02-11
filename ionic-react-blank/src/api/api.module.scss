@@ -1,0 +1,9 @@
+.toast {
+  --button-color: blue;
+}
+.alert > div {
+  border: 1px solid red;
+  div {
+    padding-bottom: 8px !important;
+  }
+}
